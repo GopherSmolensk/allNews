@@ -1,0 +1,30 @@
+.item {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+    
+}
+
+.title {
+    font-size: 25px;
+}
+
+.extra {
+    font-size: 20px;
+    color: bisque;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.wrapper {
+    width: 64px;
+    height: 64px;
+    background-color: azure;
+    background-position: center;
+    background-size: cover;
+    flex-shrink: 0;
+}
