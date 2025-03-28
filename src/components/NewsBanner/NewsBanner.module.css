@@ -1,18 +1,16 @@
-.header {
+.banner {
     display: flex;
     flex-direction: column;
-    border-bottom: 1px solid #000;
     width: 100%;
-    padding: 12px 24px;
     gap: 10px;
     background-color: aqua;
     align-items: center;
 }
 
 .title {
-    font-size: 60px;
+    font-size: 25px;
 }
 
-.date {
-    font-size: 25px;
+.extra {
+    font-size: 20px;
 }

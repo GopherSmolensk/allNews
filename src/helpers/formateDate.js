@@ -1,5 +1,3 @@
-
-
 export const formateDate = (date) => {
     const optionsDateObject = {
         weekday: 'long',
