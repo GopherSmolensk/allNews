@@ -2,7 +2,6 @@
     display: flex;
     width: 100%;
     gap: 10px;
-    
 }
 
 .title {
@@ -11,7 +10,8 @@
 
 .extra {
     font-size: 20px;
-    color: bisque;
+    color: rgb(232, 150, 50);
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .info {
