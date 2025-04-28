@@ -23,7 +23,7 @@
 .wrapper {
     width: 64px;
     height: 64px;
-    background-color: azure;
+    background-color: rgb(105, 242, 242);
     background-position: center;
     background-size: cover;
     flex-shrink: 0;
